@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.cerege.fr/fr/cerege/thibault-de-garidel-thoron/'>CNRS-CEREGE</a>. Aix-en-Provence, France.
 
 profile:
   align: right
