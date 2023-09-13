@@ -22,3 +22,5 @@ social: true  # includes social icons at the bottom of the page
 I am a paleoceanographer, working on mineralizing planktonic organisms as indicators of oceanic environments. I am interested in developing new tools to automate the recognition and sorting of the planktonic shells. I work mainly on modern, living planktonic foraminifera and reconstruct past environmental changes from ocean sediment cores.
 
 Get in touch if you want to join the group. We might have opportunities from undergrad to post-doctoral fellows.
+
+This webpage is a work in progress. Feel free to contact me if you spot any error worth.
