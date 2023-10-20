@@ -9,20 +9,20 @@
 - title: Education
   type: time_table
   contents:
-  - title: Habilitation à Diriger des Recherches
+    - title: Habilitation à Diriger des Recherches
       institution: Aix-Marseille Université, Aix en Provence, France
       year: 2019
       description:
         - Reconstruction de la dynamique océanique récente et passée (Quaternaire) par l'analyse micropaléontologique haut débit des micro-organismes calcifiants.
-  - title: PhD
+    - title: PhD
       institution: Université Paul Cézanne Aix Marseille 3, France
       year: 2003
       description:
         - Dynamique climatique de l'océan Pacifique ouest équatorial au cours du Pléistocène récent.
-  - title: DEA Environnements et Paléoenvironnements Océaniques 
+    - title: DEA Environnements et Paléoenvironnements Océaniques 
       institution: Université de Bordeaux (1), France
       year: 1998
-  - title: Maîtrise de Sciences de la Terre, Master in Earth Sciences 
+    - title: Maîtrise de Sciences de la Terre, Master in Earth Sciences 
       institution: Université Claude Bernard Lyon 1, France
       year: 1996
 
