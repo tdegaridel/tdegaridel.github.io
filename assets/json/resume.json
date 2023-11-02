@@ -1,32 +1,31 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Thibault de Garidel-Thoron",
+    "label": "Senior Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "garidel@cerege.fr",
+    "phone": "+33-685-027-143",
+    "url": "https://tdegaridel.github.io/",
+    "summary": "Micropaleontologist, paleoceanographer",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Technopole de l'Arbois, BP80",
+      "postalCode": "13545 CEDEX 4",
+      "city": "Aix en Provence",
+      "countryCode": "France",
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "tdegaridel",
+        "url": "https://twitter.com/tdegaridel"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
+      "name": "CEREGE, CNRS, Aix Marseille Université",
+      "position": "Directeur de Recherches",
+      "url": "https://tdegaridel.github.io/",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
