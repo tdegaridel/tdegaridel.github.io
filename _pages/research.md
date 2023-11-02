@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: //
-title: 
+permalink: /research/
+title: research
 description: main research interests
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 **Paleoceanography**
 My research interests encompass paleoclimatological reconstructions of the intertropical zone, on late Cenozoic sediment records. I use planktonic foraminifera as the main climate proxy recorder.

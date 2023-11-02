@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: //
-title: 
+permalink: /people/
+title: people
 description: list of supervised students
 nav: true
 nav_order: 5
