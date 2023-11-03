@@ -617,6 +617,7 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        font-size: 0.8rem;
       }
 
       .author {
@@ -626,6 +627,7 @@ footer.sticky-bottom {
           &:hover {
             border-bottom-style: solid;
             text-decoration: none;
+            font-size: 0.75rem;
           }
         }
 
