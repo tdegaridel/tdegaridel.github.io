@@ -23,4 +23,4 @@ I am a paleoceanographer, working on mineralizing planktonic organisms as indica
 
 Get in touch if you want to join the group. We might have opportunities from undergrad to post-doctoral fellows.
 
-This webpage is a work in progress. Feel free to contact me if you spot any error worth.
+This webpage is a work in progress.
