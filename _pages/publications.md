@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications by categories in reversed chronological order. publications in 2054 are submitted manuscripts (and should be published befire my retirement).
+description: Publications by categories in reversed chronological order. Submitted manuscripts indicated as working papers - the date corresponds to the initial submission.
 nav: true
 nav_order: 1
 ---
