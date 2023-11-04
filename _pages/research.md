@@ -29,4 +29,4 @@ Our in house software include :
 I have joined more than 15 oceanographic cruises, and I am involved in two main projects including a transpacific cruise to recover sediment record along an Est-West transect to reconstruct past ENSO dynamics.
 
 **Admin duties**
-Too long here, but you can check my CV for synergic activities at the local to national scales mostly.
+Too long here, but you can check my CV for synergistic activities at the local to national scales mostly.
