@@ -29,4 +29,5 @@ Our in house software include :
 I have joined more than 15 oceanographic cruises, and I am involved in two main projects including a transpacific cruise to recover sediment record along an Est-West transect to reconstruct past ENSO dynamics.
 
 **Admin duties**
-Too long here, but you can check my CV for synergistic activities at the local to national scales mostly.
+Among various admin, and scintific councils, I have been involved in admin duties within CEREGE :  co-head of the "Climatic Variability and Impact on Ecosystems" Theme from 2012 to 2017 ; and Head of the Climate group from jan. 2018 to dec. 2023.
+At the french national level, I am the chair of the Ocean and Atmosphere Scientific Comittee since jan 2021.
