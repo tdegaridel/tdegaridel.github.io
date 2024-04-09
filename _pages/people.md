@@ -18,3 +18,11 @@ nav_order: 5
 -	*Michael Adebayo*, co-direction with Clara Bolton, defended on october 19th, 2023.
 -	*Fabienne Régoli*, co-direction with Luc Beaufort, defended on 10 july 2014.
 -	*Aurore André*, co-direction with Frédéric Quillévéré et Gilles Escarguel (Université Claude Bernard Lyon 1), defended on 14 november 2013.
+
+**Staff**
+- *Anthony Gramoullé*, Software developer, project A*Midex MicroTree, 2024-2026
+
+**Current Master students**
+- *Mathias Ageron*, 2024, Univ. Angers
+
+
