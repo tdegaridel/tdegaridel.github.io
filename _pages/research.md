@@ -17,7 +17,7 @@ Historical changes in planktonic foraminiferal assemblages have not yet been syn
 **Micropal robotics & software**
 
 We develop some novel unique tools to ease the work of micropaleontologists, and to produce large curated data-sets of microfossils.
-* MiSo : Microfossil Sorter. This large scale fully automated sorting machine, developed with [ATG Technology](https://www.atg-technologies.fr/), with a patented separation process, allows the z-stacked imaging of particles from coarse fractions (150µm-2mm), and single-particle separation into single microtubes based on imaging neural networks techniques.
+* MiSo : Microfossil Sorter. This large scale fully automated sorting machine, developed with [ATG Technology](https://www.atg-technologies.fr/), with a patented separation process, allows the z-stacked imaging of particles from coarse fractions (150µm-2mm), and single-particle separation into single microtubes based on imaging neural networks techniques. Have a look here at how it works (credit goes to Ross Marchant and Martin Tetard for screenplay, actor, shooting and mixing) [MiSo movie](https/tdegaridel.github.io/assets/video/FilmMiso.mp4) : 
 * 3D printer+camera : this low cost system allows the z-stacked image acquisition of single particles.
 
 Our in house software include :
