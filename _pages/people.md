@@ -6,6 +6,8 @@ description: list of supervised students
 nav: true
 nav_order: 5
 ---
+Feel free to contact me if you're looking for an internship (undergraduate to graduate levels), PhD thesis (e.g. on [calcification response of plankton to CO2 changes](https://ecole-doctorale-251.univ-amu.fr/sites/ecole-doctorale-251.univ-amu.fr/files/article/de_garidel-sulpis.pdf) or on [Holocene climate changes in the Indian ocean](https://www.universite-paris-saclay.fr/ecoles-doctorales/sciences-mecaniques-et-energetiques-materiaux-et-geosciences-smemag#proposition)), or post doc position.
+
 **Post-docs**
 
 -	*Ross Marchant*, post-doctorant EU Marie-Curie (Prestige Post-Doc) – 2016-2018. Projet Agence Nationale de la Recherche PRCE FIRST.
