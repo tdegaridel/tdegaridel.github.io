@@ -30,4 +30,4 @@ I have joined more than 15 oceanographic cruises, and I am involved in two main 
 
 **Admin duties**
 Among various admin, and scientific councils, I have been involved in admin duties within CEREGE :  co-head of the "Climatic Variability and Impact on Ecosystems" Theme from 2012 to 2017 ; and Head of the Climate group from jan. 2018 to dec. 2023, member of the collegium from 2018 to 2021.
-At the french national level, I am the chair of the Ocean and Atmosphere Scientific Comittee since jan 2021.
+At the french national level, I am the chair of the [Ocean and Atmosphere Scientific Comittee](https://www.insu.cnrs.fr/fr/personne/commission-specialisee-ocean-atmosphere-csoa) since january 2021.

@@ -16,7 +16,7 @@ Feel free to contact me if you're looking for an internship (undergraduate to gr
 -	*Camille Godbillot*, post-doctoral research associate (ITEM) - 2021-2023 ; IRD 2023-2025.
 
 **PhD students**
--	*Jaime Yesid Suarez Ibarra*, with Charles University, Czech republic, 2022-ongoing.
+-	*Jaime Yesid Suarez Ibarra*, with Charles University, Czech republic, defended on october 21st, 2024.
 -	*Michael Adebayo*, co-direction with Clara Bolton, defended on october 19th, 2023.
 -	*Fabienne Régoli*, co-direction with Luc Beaufort, defended on 10 july 2014.
 -	*Aurore André*, co-direction with Frédéric Quillévéré et Gilles Escarguel (Université Claude Bernard Lyon 1), defended on 14 november 2013.
