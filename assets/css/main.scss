@@ -14,3 +14,8 @@ $max-content-width: {{ site.max_width }};
   "distill",
   "cv"
 ;
+
+/* Réduit la taille de la police pour la liste des publications */
+.bibliography, .publications, .references, .citation {
+  font-size: 0.9em; /* ou essaye 0.85em ou 14px selon ton besoin */
+}
